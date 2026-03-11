@@ -12,7 +12,7 @@ Right now, I’m developing and refining projects that blend mathematics, progra
   Built a Python implementation of the **ElGamal Encryption method**, strengthening my understanding of secure communication protocols.  
   Your CV states you *“developed a Python program using NumPy to encrypt messages via the ElGamal Encryption method.”*
 
-- **Algorithmic Problem Solving**  
+- **Algorithmic Problem Solving**[https://github.com/JFlem462/wordle-solver-entropy]  
   Designed a **Wordle solver using Shannon entropy**, achieving over 90% success within five guesses.
 
 I’m also preparing for future research roles in computational mathematics and data science, with the goal of contributing to interdisciplinary scientific teams.
