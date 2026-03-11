@@ -45,6 +45,6 @@ I work across several programming languages, analytical tools, and mathematical 
 I’m always open to connecting about research, data science, mathematics, or collaborative projects.
 
 - **Email:** jcflemingjcf2395@gmail.com  
-- **LinkedIn:** `www.linkedin.com/in/jalen-fleming-188989228` [(www.linkedin.com/in/jalen-fleming-188989228)]  
+- **LinkedIn:** [(www.linkedin.com/in/jalen-fleming-188989228)]  
 
 ---
