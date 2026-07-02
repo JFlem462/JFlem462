@@ -6,15 +6,8 @@ I’m a mathematics graduate student at **Illinois State University**, pursuing 
 I enjoy building computational tools and applying mathematical thinking to real‑world problems. My academic work ranges from encryption algorithms to entropy‑based solvers and statistical analysis of public health data.
 
 ## What am I working on?
-Right now, I’m developing and refining projects that blend mathematics, programming, and applied statistics, including:
-
-- **Cryptography & Number Theory**  
-  Built a Python implementation of the **ElGamal Encryption method**, strengthening my understanding of secure communication protocols.  
-
-- [Algorithmic Problem Solving](https://github.com/JFlem462/wordle-solver-entropy)  
-  Designed a **Wordle solver using Shannon entropy**, achieving over 90% success within five guesses.
-
-I’m also preparing for future research roles in computational mathematics and data science, with the goal of contributing to interdisciplinary scientific teams.
+Right now, I’m developing a Python program that can read and write to an excel file and store information and do an deep learning analysis on the data 
+stored in the excel file. This is a summer project that I am working on so stay tuned.
 
 ---
 
